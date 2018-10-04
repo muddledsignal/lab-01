@@ -76,7 +76,7 @@ Every function description should include it's airty (expected number of paramet
 **Resources Referenced:** https://dev.to/srebalaji/es6-for-beginners-with-example-c7
 
 **Pull Requests:**
-https://github.com/codefellows-seattle-javascript-401n7/lab-01/pull/1
+https://github.com/muddledsignal/lab-01/pull/1
 
 **Travis:**
 https://travis-ci.com/muddledsignal/lab-01/jobs/149638330
