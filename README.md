@@ -38,4 +38,39 @@ Create a NodeJS module in the `lib` directory named `greet.js`.  This module sho
 
 
 ### Documentation
-In your README.md file, describe the exported values of each module defined in your `lib` directory. Every function description should include it's airty (expected number of parameters), the expected data for each parameter (data-type and limitations), and the expected output behavior (for both valid and invalid use). Feel free to include any additional information that you would like.
+In your README.md file, describe the exported values of each module defined in your `lib` directory. 
+Every function description should include it's airty (expected number of parameters), the expected data for each parameter (data-type and limitations), and the expected output behavior (for both valid and invalid use). Feel free to include any additional information that you would like.
+
+####Module: arithmetic.js
+######Time: 3 Hours
+
+#####Function: add
+**Arity:** 2+
+**Expected Data Type:** number
+**Expected Output Behavior:** the sum of two or more numbers
+
+#####Function: subtract
+- **Arity:** 2+
+- **Expected Data Type:** number
+- **Expected Output Behavior:** the difference of two or more numbers
+
+#####Function: multiply
+- **Arity:** 2+
+- **Expected Data Type:** number
+- **Expected Output Behavior:** the product of two or more numbers
+
+#####Function: divide
+- **Arity:** 2
+- **Expected Data Type:** number
+- **Expected Output Behavior:** the quotient of two numbers
+
+####Module: greet.js
+######Time: 10 Minutes
+
+#####Function: hello
+- **Arity:** 1
+- **Expected Data Type:** string
+- **Expected Output Behavior:** user greeting, formatted "Hello, user"
+
+
+**Resources Referenced:** https://dev.to/srebalaji/es6-for-beginners-with-example-c7
